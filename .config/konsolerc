@@ -5,4 +5,4 @@ DefaultProfile=wapno.profile
 ConfigVersion=1
 
 [UiSettings]
-ColorScheme=
+ColorScheme=Gruvbox
