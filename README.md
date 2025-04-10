@@ -1,8 +1,8 @@
 # adding new config files to track
 ```
 cd $HOME
-dotfiles add \<config file>  
-dotfiles commit -m \"<comment>"  
+dotfiles add <config file>  
+dotfiles commit -m "<comment>"  
 dotfiles push  
 ```
 
