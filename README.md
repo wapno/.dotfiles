@@ -1,3 +1,9 @@
+# dependencies
+
+```  
+git, wayland, waybar, rofi, swayosd-git, konsole, zsh w/oh-my-zsh (https://ohmyz.sh/)
+```
+
 # first time setup
 1)  
 ```
