@@ -1,7 +1,7 @@
 # dependencies
 
 ```  
-git, wayland, waybar, rofi, swayosd-git, konsole, zsh w/oh-my-zsh (https://ohmyz.sh/)
+git, wayland, hyprland, waybar, rofi, swayosd-git, konsole, zsh w/oh-my-zsh (https://ohmyz.sh/)
 optional vim setup from https://github.com/amix/vimrc.git
 ```
 
