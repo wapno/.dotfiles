@@ -4,6 +4,9 @@ DefaultProfile=wapno.profile
 [General]
 ConfigVersion=1
 
+[MainWindow]
+MenuBar=Enabled
+
 [Notification Messages]
 CloseAllEmptyTabs=false
 CloseAllTabs=true
